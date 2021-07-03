@@ -5,8 +5,7 @@ main:
     url: /files/cv_ic.pdf
     
   - title: "Research"
-    url: /research/
+    url: /research
 
   - title: "Teaching"
-    url: /teaching/     
-    
+    url: /teaching
