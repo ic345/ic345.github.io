@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in economics at Cornell University. My research interests are in labor and urban economics. I also study economic demography and the economics of crime.  
+<img align="left" width="400" src="/images/inc-headshot-wide.jpg">
+  
+  I am a Ph.D. candidate in economics at Cornell University. My research interests are in labor and urban economics. I also study economic demography and the economics of crime.
+
+ 
