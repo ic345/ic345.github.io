@@ -4,6 +4,8 @@ permalink: /research
 author_profile: true
 ---
 
+## Working Papers 
+
 **The Minimum Wage and Between-Group Inequality**
 with Francine Blau, [Matthew Comey](https://www.matthewcomey.com/), Lawrence Kahn, and [Nikolai Boboshko](https://nboboshko.github.io/)
 
