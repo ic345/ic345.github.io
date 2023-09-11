@@ -10,7 +10,7 @@ author_profile: true
 
 <br>
 
-**The Minimum Wage and Between-Group Inequality**
+**The Minimum Wage and Inequality Between Groups**
 with Francine Blau, [Matthew Comey](https://www.matthewcomey.com/), Lawrence Kahn, and [Nikolai Boboshko](https://nboboshko.github.io/)
 
 Latest Version: September 2023 
