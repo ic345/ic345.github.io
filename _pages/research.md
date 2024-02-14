@@ -28,6 +28,8 @@ We use wage data from the Current Population Survey Merged Outgoing Rotation Gro
 **Demand for Social Security: Evidence from Patchwork Coverage**
 with [Andrew Johnston](https://sites.google.com/site/andrewjohnstoneconomics/)
 
+*Paper coming soon!*
+
 By historical quirk, public schools in Georgia have a patchwork of Social Security coverage, which we use to measure worker demand for the program. When transferring schools, teachers exchange Social Security coverage for 3.4 percent of salary on average, implying the marginal transfer values coverage at about half the employer cost and a portion of the full social cost. Evidence from teacher flows between districts using a gravity model also suggests a low valuation of coverage with teachers avoiding covered employment, conditional on pay and student demographics. Our setting provides the first empirical estimates to quantify Hicksian transfers for Social Security reform.
 
 **Demand for Bundled Insurance over Large and Small Stakes with Unobserved Wealth**
