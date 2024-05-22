@@ -12,3 +12,5 @@ redirect_from:
 --->
 
 I am a Ph.D. candidate in economics at Cornell University. My research interests are in labor economics, public finance, and economic demography.
+
+I will join Compass Lexecon as a Senior Economist starting in Fall 2024. 
