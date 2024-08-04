@@ -11,6 +11,6 @@ redirect_from:
 <img align="left" style="float: left; margin: 0 50px 75px 0" width="300" src="/images/inc-headshot-wide.jpg" id = "hp"/>
 --->
 
-I am a Ph.D. candidate in economics at Cornell University. My research interests are in labor economics, public finance, and economic demography.
+I received my Ph.D. in economics from Cornell University in August 2024. My research interests are in labor economics, public finance, and economic demography.
 
-I will join Compass Lexecon as a Senior Economist starting in Fall 2024. 
+I am a Senior Economist at Compass Lexecon.
